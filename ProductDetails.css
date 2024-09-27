@@ -1,0 +1,10 @@
+.product-details-container {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .product-details-image {
+    max-width: 100%;
+    height: auto;
+  }
+  
